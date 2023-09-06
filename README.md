@@ -27,3 +27,6 @@ Additionally, we've created a simple Flask web application that allows users to 
 
 ## Demo
 
+https://github.com/hashirbhatti/mlproject/assets/77647802/d54b724d-04c3-4936-9d4b-72c1e529ba50
+
+
