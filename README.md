@@ -8,7 +8,7 @@ Welcome to the Student Math Score Prediction project! This end-to-end machine le
 
 ## Project Overview
 
-In this project, we have developed a machine learning model that predicts student math scores. The dataset used for training and evaluation contains various features such as age, study time, and family support, which are used to make predictions about student performance.
+In this project, I have developed a machine-learning model that predicts student math scores. The dataset used for training and evaluation contains various features such as age, study time, and family support, which are used to make predictions about student performance.
 
 The project's modular architecture allows you to work on specific components independently, making it easier to maintain and extend. The CI/CD pipeline automates the process of building, testing, and deploying the model, ensuring that it remains up-to-date and reliable.
 
@@ -22,7 +22,7 @@ The project is organized into the following modular components:
 
 3. **Model Trainer:** Contains the machine learning model and training code. It takes preprocessed data, trains the model, and saves it for evaluation and deployment.
 
-Additionally, we've created a simple Flask web application that allows users to interact with the model through a user-friendly interface. This frontend is designed using simple HTML forms and inline CSS for an intuitive user experience.
+Additionally, I've created a simple Flask web application that allows users to interact with the model through a user-friendly interface. This frontend is designed using simple HTML forms and inline CSS for an intuitive user experience.
 
 
 ## Demo
