@@ -8,7 +8,7 @@ Welcome to the Student Math Score Prediction project! This end-to-end machine le
 
 ## Project Overview
 
-In this project, I have developed a machine-learning model that predicts student math scores. The dataset used for training and evaluation contains various features such as age, study time, and family support, which are used to make predictions about student performance.
+In this project, I have developed a machine-learning model that predicts student math scores. The dataset used for training and evaluation contains various features such as gender, lunch_type, parental_level_of_education and others which are used to make predictions about student performance.
 
 The project's modular architecture allows you to work on specific components independently, making it easier to maintain and extend. The CI/CD pipeline automates the process of building, testing, and deploying the model, ensuring that it remains up-to-date and reliable.
 
